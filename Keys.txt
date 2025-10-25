@@ -1,0 +1,2 @@
+Keystore path; password: shahzad1382
+Key Alies: 735068
